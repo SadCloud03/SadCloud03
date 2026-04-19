@@ -40,13 +40,29 @@ I am a passionate developer focused on building scalable software architecture a
 ### 📊 System Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadCloud03&theme=tokyo-night&area=true&hide_border=true" alt="Commit Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SadCloud03&theme=tokyo-night&area=true&hide_border=true" alt="Commit Activity Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadCloud03&layout=compact&theme=tokyonight&hide_border=true&hide_progress=true" alt="Top Languages" />
-</p>
+Core Technologies & Stack
 
+<p align="left">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+
+
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+
+<img src="https://img.shields.io/badge/linux_mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 ---
 
 ### Connect with me
