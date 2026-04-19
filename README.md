@@ -7,11 +7,11 @@
 ╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝╚══════╝ ╚═════╝  ╚═════╝╚═════╝  ╚═════╝ ╚═════╝
 
 > User: SadCloud03 (Ivan Portillo)
-> Role: Full-Stack Developer // SOC Analyst 
+> Role: Developer // Data Analyst 
 > Status: High on caffeine // Logic Overload
 > Uptime: 24/7 (most of the time )
 ```
-### Developer | SOC Analyst 
+### Developer | Data Analyst
 
 I am a passionate developer focused on building scalable software architecture and exploring the depths of cybersecurity.
 
@@ -30,9 +30,10 @@ I am a passionate developer focused on building scalable software architecture a
 ---
 
 ### Security & Logic Interests
+```bash
 * **SOC Analysis:** Monitoring, detecting, and responding to cyber threats.
-* **A* Pathfinding:** Implementing advanced algorithms in C++.
 * **Network Security:** Managing TCP/IP communications and concurrency.
+```
 
 ---
 
@@ -49,6 +50,7 @@ I am a passionate developer focused on building scalable software architecture a
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [www.linkedin.com/in/iván-dejesús-portillo-medina-ab1608246]
-
+```bash
+* LinkedIn -> [www.linkedin.com/in/iván-dejesús-portillo-medina-ab1608246]
+```
 *"Turning caffeine into clean code and secure systems."*
