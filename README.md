@@ -43,6 +43,8 @@ I am a passionate developer focused on building scalable software architecture a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadCloud03&theme=tokyo-night&area=true&hide_border=true" alt="Commit Activity Graph" width="100%" />
 </p>
 
+---
+
 ### ░▒▓ Programming Languages ▓▒░
 
 <p align="left">
@@ -51,6 +53,8 @@ I am a passionate developer focused on building scalable software architecture a
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
+
+---
 
 ### ░▒▓ Technologies & Frameworks ▓▒░
 
