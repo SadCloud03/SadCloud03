@@ -82,5 +82,5 @@ I am a passionate developer focused on building scalable software architecture a
 ---
 
 ```bash
-*"Turning caffeine into clean code and secure systems."*
+* * Turning caffeine into clean code and secure systems. * *
 ```
