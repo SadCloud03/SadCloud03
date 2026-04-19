@@ -75,6 +75,8 @@ I am a passionate developer focused on building scalable software architecture a
 ```bash
 * LinkedIn -> [www.linkedin.com/in/iván-dejesús-portillo-medina-ab1608246]
 ```
+---
+
 ```bash
 *"Turning caffeine into clean code and secure systems."*
 ```
