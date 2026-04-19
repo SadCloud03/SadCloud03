@@ -37,18 +37,14 @@ I am a passionate developer focused on building scalable software architecture a
 
 ---
 
-### System Analytics
+### Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadCloud03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
-  
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadCloud03&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadCloud03&theme=tokyo-night&area=true&hide_border=true&v=2026" alt="Commit Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadCloud03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadCloud03&layout=compact&theme=tokyonight&hide_border=true&v=2026" alt="Top Languages" />
 </p>
 
 ---
