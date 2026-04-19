@@ -32,8 +32,6 @@ I am a passionate developer focused on building scalable software architecture a
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [Your Profile Link]
-* **Portfolio:** [Your Portfolio Link]
-* **Notion Lab:** [Your Study Link]
+* **LinkedIn:** [www.linkedin.com/in/iván-dejesús-portillo-medina-ab1608246]
 
 *"Turning caffeine into clean code and secure systems."*
