@@ -38,6 +38,7 @@ I am a passionate developer focused on building scalable software architecture a
 
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadCloud03&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=SadCloud03&show_icons=true&theme=cloud&hide_border=true&title_color=00b4d8&text_color=90e0ef&icon_color=00b4d8&include_all_commits=true)
 
 ---
 
