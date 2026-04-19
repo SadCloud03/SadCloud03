@@ -11,13 +11,13 @@
 > Status: High on caffeine // Logic Overload
 > Uptime: 24/7 (most of the time )
 ```
-### Developer | Data Analyst
+### ░▒▓ Developer | Data Analyst ▓▒░
 
 I am a passionate developer focused on building scalable software architecture and exploring the depths of cybersecurity.
 
 ---
 
-### Technical Stack
+### ░▒▓ Technical Stack ▓▒░
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -29,7 +29,7 @@ I am a passionate developer focused on building scalable software architecture a
 
 ---
 
-### Security & Logic Interests
+### ░▒▓ Security & Logic Interests ▓▒░
 ```bash
 * **SOC Analysis:** Monitoring, detecting, and responding to cyber threats.
 * **Network Security:** Managing TCP/IP communications and concurrency.
@@ -37,13 +37,13 @@ I am a passionate developer focused on building scalable software architecture a
 
 ---
 
-### System Analytics
+### ░▒▓ System Analytics ▓▒░
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadCloud03&theme=tokyo-night&area=true&hide_border=true" alt="Commit Activity Graph" width="100%" />
 </p>
 
-### Programming Languages
+### ░▒▓ Programming Languages ▓▒░
 
 <p align="left">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -52,7 +52,7 @@ I am a passionate developer focused on building scalable software architecture a
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-### Technologies & Frameworks
+### ░▒▓ Technologies & Frameworks ▓▒░
 
 <p align="left">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -71,8 +71,10 @@ I am a passionate developer focused on building scalable software architecture a
 
 ---
 
-### Connect with me
+### ░▒▓ Connect with me ▓▒░
 ```bash
 * LinkedIn -> [www.linkedin.com/in/iván-dejesús-portillo-medina-ab1608246]
 ```
+```bash
 *"Turning caffeine into clean code and secure systems."*
+```
