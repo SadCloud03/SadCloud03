@@ -77,7 +77,7 @@ I am a passionate developer focused on building scalable software architecture a
 
 ### ░▒▓ Connect with me ▓▒░
 ```bash
-* LinkedIn -> [www.linkedin.com/in/iván-dejesús-portillo-medina-ab1608246]
+* LinkedIn -> [www.linkedin.com/in/iván-portillo-medina-ab1608246]
 ```
 ---
 
