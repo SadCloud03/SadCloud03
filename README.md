@@ -81,7 +81,3 @@ I am a passionate developer focused on building scalable software architecture a
 * Gmail -> [ivandejesus0303@gmail.com]
 ```
 ---
-
-```bash
-* * Turning caffeine into clean code and secure systems. * *
-```
