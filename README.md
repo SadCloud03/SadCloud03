@@ -8,7 +8,7 @@
 
 > User: SadCloud03 (Ivan Portillo)
 > Role: Developer // Data Analyst 
-> Status: High on caffeine // Logic Overload
+> Status: High on caffeine 
 > Uptime: 24/7 (most of the time )
 ```
 ### ░▒▓ Developer | Data Analyst ▓▒░
@@ -78,6 +78,7 @@ I am a passionate developer focused on building scalable software architecture a
 ### ░▒▓ Connect with me ▓▒░
 ```bash
 * LinkedIn -> [www.linkedin.com/in/iván-portillo-medina-ab1608246]
+* Gmail -> [ivandejesus0303@gmail.com]
 ```
 ---
 
