@@ -17,18 +17,6 @@ I am a passionate developer focused on building scalable software architecture a
 
 ---
 
-### ░▒▓ Technical Stack ▓▒░
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Front-End** | React, Next.js, Flutter, HTML5, CSS3 |
-| **Back-End** | Node.js (Express), Python (FastAPI/Flask) |
-| **Mobile** | Flutter, React Native |
-| **Database** | SQLite, PostgreSQL, MongoDB |
-| **DevOps/Tools** | Docker, Linux, Git, Figma, Notion |
-
----
-
 ### ░▒▓ Security & Logic Interests ▓▒░
 ```bash
 * **SOC Analysis:** Monitoring, detecting, and responding to cyber threats.
@@ -52,6 +40,9 @@ I am a passionate developer focused on building scalable software architecture a
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -65,13 +56,17 @@ I am a passionate developer focused on building scalable software architecture a
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-
-<img src="https://img.shields.io/badge/linux_mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
+
 
 ---
 
