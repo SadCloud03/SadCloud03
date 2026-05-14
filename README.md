@@ -5,11 +5,6 @@
 ╚════██║██╔══██║██║  ██║██║     ██║     ██║   ██║██║   ██║██║  ██║████╔╝██║ ╚═══██╗
 ███████║██║  ██║██████╔╝╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝╚██████╔╝██████╔╝
 ╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝╚══════╝ ╚═════╝  ╚═════╝╚═════╝  ╚═════╝ ╚═════╝
-
-> User: SadCloud03 (Ivan Portillo)
-> Role: Developer // Data Analyst 
-> Status: High on caffeine 
-> Uptime: 24/7 (most of the time )
 ```
 ### ░▒▓ Developer | Data Analyst ▓▒░
 
@@ -22,14 +17,6 @@ I am a passionate developer focused on building scalable software architecture a
 * **SOC Analysis:** Monitoring, detecting, and responding to cyber threats.
 * **Network Security:** Managing TCP/IP communications and concurrency.
 ```
-
----
-
-### ░▒▓ System Analytics ▓▒░
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SadCloud03&theme=tokyo-night&area=true&hide_border=true" alt="Commit Activity Graph" width="100%" />
-</p>
 
 ---
 
